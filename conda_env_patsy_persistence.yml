@@ -1,0 +1,16 @@
+name: patsy_persistence
+channels:
+  - defaults
+dependencies:
+    - python=3.5
+    - jupyter
+    - ipywidgets
+    - numpy
+    - scipy
+    - matplotlib
+    - seaborn
+    - patsy
+    - pandas
+    - pip
+    - pip:
+        - watermark
